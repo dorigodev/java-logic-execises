@@ -27,6 +27,7 @@ public class exercise01 {
         } else {
             System.out.println(soma + "é igual a " + num03);
         }
+        System.out.println("teste");
 
     }
 }
