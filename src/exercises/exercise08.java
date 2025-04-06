@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 *Faça um algoritmo que leia três valores inteiros diferentes
 *  e imprima na tela os valores em ordem decrescente.
 * */
-public class exercise07 {
+public class exercise08 {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         Scanner input = new Scanner(System.in);
